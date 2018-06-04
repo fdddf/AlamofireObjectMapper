@@ -19,4 +19,5 @@ Pod::Spec.new do |s|
   s.source_files = 'AlamofireObjectMapper/**/*.swift'
   s.dependency 'Alamofire', '~> 4.1'
   s.dependency 'ObjectMapper', '~> 3.0'
+  s.dependency 'RNCryptor', '~> 5.0'
 end
